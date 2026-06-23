@@ -23,7 +23,7 @@ export default function RootLayout({ children }) {
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col items-center justify-center bg-gray-100 text-gray-900 dark:bg-gray-900 dark:text-gray-100 text-xl tracking-wide font-sans">
-        jtj
+        Jacob Thomas Johnson
       </body>
     </html>
   );
